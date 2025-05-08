@@ -9,7 +9,7 @@
 The aim of this assignment is to familiarize you with interacting with smart contracts deployed on a blockchain, specifically the MultiversX blockchain. Through this assignment, you will learn how to interact with a deployed smart contract, manage, and exchange  Tradable Cards (Non-Fungible Tokens - NFTs).
 
 ## Learning Outcomes
-
+dddd`
 By the end of this assignment, students will be able to:
 
 - Understand and execute transactions on the MultiversX blockchain;
